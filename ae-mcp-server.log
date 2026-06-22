@@ -1,0 +1,31 @@
+{"level":"info","message":"Using file-based communication bridge","timestamp":"2026-05-18T23:40:54.066Z"}
+{"level":"info","message":"Using Documents folder for file-based communication with prefix: codex_ae","timestamp":"2026-05-18T23:40:54.067Z"}
+{"level":"info","message":"Using client prefix from environment: codex_ae","timestamp":"2026-05-18T23:40:54.068Z"}
+{"level":"info","message":"Registered 92 tools","timestamp":"2026-05-18T23:40:54.068Z"}
+{"level":"info","message":"Adobe After Effects MCP server started in stdio mode","timestamp":"2026-05-18T23:40:54.068Z"}
+{"level":"info","message":"Using file-based bridge - no port conflicts!","timestamp":"2026-05-18T23:40:54.068Z"}
+{"capabilities":{"elicitation":{}},"clientInfo":{"name":"codex-mcp-client","title":"Codex","version":"0.130.0"},"level":"info","message":"Initializing MCP server...","protocolVersion":"2025-06-18","timestamp":"2026-05-18T23:40:54.070Z"}
+{"level":"info","message":"Using Documents folder for file-based communication with prefix: codex-mcp-client_0_130_0_67585_mpbukrsm","timestamp":"2026-05-18T23:40:54.071Z"}
+{"level":"info","message":"Initialized with client prefix: codex-mcp-client_0_130_0_67585_mpbukrsm","timestamp":"2026-05-18T23:40:54.071Z"}
+{"level":"info","message":"Server initialized","timestamp":"2026-05-18T23:40:54.071Z"}
+{"level":"info","message":"Using file-based communication bridge","timestamp":"2026-05-19T11:51:05.287Z"}
+{"level":"info","message":"Using Documents folder for file-based communication with prefix: codex_ae","timestamp":"2026-05-19T11:51:05.288Z"}
+{"level":"info","message":"Using client prefix from environment: codex_ae","timestamp":"2026-05-19T11:51:05.288Z"}
+{"level":"info","message":"Registered 92 tools","timestamp":"2026-05-19T11:51:05.289Z"}
+{"level":"info","message":"Adobe After Effects MCP server started in stdio mode","timestamp":"2026-05-19T11:51:05.289Z"}
+{"level":"info","message":"Using file-based bridge - no port conflicts!","timestamp":"2026-05-19T11:51:05.289Z"}
+{"capabilities":{"elicitation":{}},"clientInfo":{"name":"codex-mcp-client","title":"Codex","version":"0.130.0"},"level":"info","message":"Initializing MCP server...","protocolVersion":"2025-06-18","timestamp":"2026-05-19T11:51:05.290Z"}
+{"level":"info","message":"Using Documents folder for file-based communication with prefix: codex-mcp-client_0_130_0_78552_mpcknsqy","timestamp":"2026-05-19T11:51:05.291Z"}
+{"level":"info","message":"Initialized with client prefix: codex-mcp-client_0_130_0_78552_mpcknsqy","timestamp":"2026-05-19T11:51:05.291Z"}
+{"level":"info","message":"Server initialized","timestamp":"2026-05-19T11:51:05.291Z"}
+{"level":"info","message":"Stdio connection closed","timestamp":"2026-05-19T14:15:18.131Z"}
+{"level":"info","message":"Using file-based communication bridge","timestamp":"2026-05-19T22:11:57.767Z"}
+{"level":"info","message":"Using Documents folder for file-based communication with prefix: codex_ae","timestamp":"2026-05-19T22:11:57.768Z"}
+{"level":"info","message":"Using client prefix from environment: codex_ae","timestamp":"2026-05-19T22:11:57.768Z"}
+{"level":"info","message":"Registered 92 tools","timestamp":"2026-05-19T22:11:57.769Z"}
+{"level":"info","message":"Adobe After Effects MCP server started in stdio mode","timestamp":"2026-05-19T22:11:57.769Z"}
+{"level":"info","message":"Using file-based bridge - no port conflicts!","timestamp":"2026-05-19T22:11:57.769Z"}
+{"capabilities":{"elicitation":{}},"clientInfo":{"name":"codex-mcp-client","title":"Codex","version":"0.130.0"},"level":"info","message":"Initializing MCP server...","protocolVersion":"2025-06-18","timestamp":"2026-05-19T22:11:57.770Z"}
+{"level":"info","message":"Using Documents folder for file-based communication with prefix: codex-mcp-client_0_130_0_93005_mpd6u8y2","timestamp":"2026-05-19T22:11:57.771Z"}
+{"level":"info","message":"Initialized with client prefix: codex-mcp-client_0_130_0_93005_mpd6u8y2","timestamp":"2026-05-19T22:11:57.771Z"}
+{"level":"info","message":"Server initialized","timestamp":"2026-05-19T22:11:57.771Z"}
